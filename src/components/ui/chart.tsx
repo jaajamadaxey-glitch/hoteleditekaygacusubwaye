@@ -128,7 +128,7 @@ function ChartTooltipContent({
   label?: string | number
   labelFormatter?: (label: any, payload: any) => React.ReactNode
   labelClassName?: string
-  formatter?: (value: any, name: any, item: any, index: any) => React.ReactNode
+  formatter?: (value: any, name: any, item: any, index: any, payload: any) => React.ReactNode
   color?: string
   nameKey?: string
   labelKey?: string
