@@ -6,6 +6,6 @@
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {
-    "OPENROUTER_API_KEY": "@openrouter-api-key"
+    "OPENROUTER_API_KEY": ""
   }
 }
